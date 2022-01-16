@@ -11,7 +11,7 @@ city. The dataset for the San Francisco Bay area can be found
 [here](https://s3.amazonaws.com/fordgobike-data/index.html), with feature 
 documentation available 
 [here](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems).
-The cleaned dataframe can be [downloaded here](https://drive.google.com/file/d/1TXScz-T3zqbCyYtw2IcRNmMW-PnGdZNa/view?usp=sharing).
+The cleaned dataframe can be [downloaded here](https://github.com/amxyz-cyber/Udacity-DAND-DataVisualization-Ford-GoBike/blob/master/fordgobike.zip).
 
 > As I wanted to cover a full year with analysis, I downloaded 17 .csv files 
 which were merged into one large .csv file. After having assessed the dataset 
@@ -67,3 +67,6 @@ stations.
 presented by showing its influence on the duration, start hour, start station
 id, and the weekdays. These plots will depict multivariate
 distributions.
+
+## Review
+* [Udacity Review](https://github.com/amxyz-cyber/Udacity-DAND-DataVisualization-Ford-GoBike/blob/master/review-project05.pdf)
